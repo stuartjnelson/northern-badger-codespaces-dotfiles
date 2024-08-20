@@ -3,6 +3,7 @@
       "ms-vscode.atom-keybindings",
       "mrmlnc.vscode-duplicate",
       "wmaurer.change-case",
-      "eserozvataf.one-dark-pro-monokai-darker"
+      "eserozvataf.one-dark-pro-monokai-darker",
+      "streetsidesoftware.code-spell-checker"
     ]
   }

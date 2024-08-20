@@ -1,4 +1,15 @@
 {
         "git.autofetch": true,
-        "editor.minimap.enabled": false
+        "editor.minimap.enabled": false,
+        "cSpell.language": "en-GB",
+        "cSpell.enabled": true,
+        // Settings for spellcheck extension. You can't "exclude for all apart from"
+        "cSpell.enableFiletypes": [
+                "markdown",
+                "!javascript",
+                "!javascriptreact",
+                "!plaintext",
+                "!typescript",
+                "!typescriptreact",
+        ],
 }
